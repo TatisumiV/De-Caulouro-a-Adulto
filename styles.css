@@ -1,0 +1,163 @@
+body {
+    background-image: url(Fundo.jpg);
+}
+
+.barra-horizontal {
+        width: 100.99%; 
+        height: 280px; 
+        background-color: #c094f3; 
+        margin: -10px; 
+}
+
+.logo {
+    position: absolute;
+    top: -200px;
+    left: 450px;
+}
+
+.GifComputador {
+    position: absolute;
+     transform: scaleX(-1);
+     width: 200px;
+     top: 20px;
+     left: 250px;
+}
+
+.LinhaDeco {
+    background-color: #d7c9f0;
+    position: absolute;
+    width: 100.99%;
+    height: 20px;
+    left: -10px;
+}
+
+.FundoInfo {
+    background-color: #e1d4f7d2;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.titulo {
+    text-align: center;
+    color: rgb(181, 108, 250);
+    padding-top: 150px;
+    font-size: 80px;
+}
+
+.legenda {
+    color: rgba(78, 78, 78, 0.836);
+    text-align: center;
+    position: relative;
+    top: -30px;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: cursive;
+
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 20px;
+    color: #2fb4cc;
+    background-color: rgba(255, 255, 0, 0.158);
+}
+
+input {
+    width: 80%; 
+    height: 50px;
+    border: 2px solid #a247f8;
+    border
+    padding: 16px; 
+    border-radius: 24px; 
+    margin-bottom: 16px; 
+    font-size: 16px; 
+    box-sizing: border-box; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+button {
+    padding: 12.8px 19.2px; 
+    border: none; 
+    border-radius: 24px; 
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: #2cc4d8; 
+    text
+    color: #F5F7F8; 
+    font-size: 16px; 
+    cursor: pointer; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.titulos {
+    padding-top: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #23054b;
+}
+
+.infos {
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #e6d81136;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.links {
+    font-size: 18px;
+    text-decoration: none;
+    padding-bottom: 50px;
+}
+
+.mensagem-erro {
+    background-color: rgba(255, 255, 0, 0.281);
+    text-align: center;
+    font-size: 20px;
+    color: #2fb4cc;
+}
+
+.nao-encontrado {
+    background-color: rgba(255, 255, 0, 0.281);
+    text-align: center;
+    font-size: 20px;
+    color: #2fb4cc;
+}
+
+.estrela1 {
+    position: absolute;
+    width: 300px;
+    top: 260px;
+    left: -30px;
+}
+
+footer {
+    margin-top: 70px;
+    position: absolute;
+    background-color: #c094f3; 
+    color: #45474B; 
+    text-align: center; 
+    padding: 0; 
+    width: 100%;
+    bottom: auto; 
+    left: -10px;
+    font-size: 16px; 
+}
+
+.borda {
+    position: absolute;
+    width: 100%;
+    top: 1px;
+    left: 0px;
+}
+
+.sorriso {
+    position: absolute;
+    top: 35px;
+ right: -10px;
+}
